@@ -1,6 +1,6 @@
 # IEEE-B-Score-Code
 
-This is the complementary code scripz section for the B-Score Paper published in the IEEE Biomedical and Health Informatics Journal. It is an Open Source script available under the GNU General Public License.
+This is the complementary code scripz section for the B-Score Paper published in IEEE Transactions on Biomedical Engineering. It is an Open Source script available under the GNU General Public License.
 This script allows you to analyse your BP estimation dataset and calculate the base performances needed for B-Score calculation. If you choose to provide your T-RMSE value, this script will directly allow you to calculate your model's B-Score.
 
 How to use:
