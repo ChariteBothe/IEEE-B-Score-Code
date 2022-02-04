@@ -8,9 +8,4 @@ It is highly recommended to run the script in the Google Colaboratory environmen
 
 To make sure you have all required libraries installed with the correct versions, please check the publication and the code-cell below for detailed information.
 
-Cells containing necessary imports or utility functions are collapsed in the "User Version" of the script. Please run them by pressing Shift + ENTER. You can access the underlying code directly by opening the "Open Code" version.
-
-Cells containing optional functionality will be highlighted by explanatory texts beforehand. If you wish to inspect the code double click on collapsed cells to expand them.
-
-
 Thank you for using the complementary B-Score calculation script. We are looking forward to see your publication and your B-Score results.
